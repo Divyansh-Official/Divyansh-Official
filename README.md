@@ -222,7 +222,8 @@ I am a passionate and detail-oriented Software Engineer with a strong foundation
 
 <div align="center">
 
-<!-- Dev Quotes -->
+![](https://github-profile-trophy.vercel.app/?username=Divyansh-Official&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+
 <table width="100%">
   <tr>
     <td align="center">
