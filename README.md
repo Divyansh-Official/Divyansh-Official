@@ -57,25 +57,25 @@ I am a passionate and detail-oriented Software Engineer with a strong foundation
 <table width="100%">
   <tr>
     <td align="center" width="25%">
-      <a href="https://leetcode.com/your_leetcode_username" target="_blank">
+      <a href="https://www.geeksforgeeks.org/user/codewithdivyansh/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="120"/>
       </a>
       <br/><b>LeetCode</b>
     </td>
     <td align="center" width="25%">
-      <a href="https://www.codechef.com/users/your_codechef_username" target="_blank">
+      <a href="https://leetcode.com/u/DivyanshTiwariOfficial/" target="_blank">
         <img src="https://s3.amazonaws.com/discourseproduction/original/1X/ba28115bd3d5badf6cce0eb175d5875dadee3b12.png" alt="CodeChef" width="120"/>
       </a>
       <br/><b>CodeChef</b>
     </td>
     <td align="center" width="25%">
-      <a href="https://www.hackerrank.com/your_hackerrank_username" target="_blank">
+      <a href="https://www.codechef.com/users/codexdev" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="120"/>
       </a>
       <br/><b>HackerRank</b>
     </td>
     <td align="center" width="25%">
-      <a href="https://auth.geeksforgeeks.org/user/your_gfg_username" target="_blank">
+      <a href="https://www.hackerrank.com/profile/iamdivyanshtiwa1" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="120"/>
       </a>
       <br/><b>GeeksforGeeks</b>
