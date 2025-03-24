@@ -212,9 +212,6 @@ I am a passionate and detail-oriented Software Engineer with a strong foundation
     <td align="center">
       <img src="https://nirzak-streak-stats.vercel.app/?user=Divyansh-Official&theme=dark&hide_border=true" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-Official&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
-    </td>
   </tr>
 </table>
 
