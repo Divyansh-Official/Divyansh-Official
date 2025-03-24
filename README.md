@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <h1>Hey there! 👋 Welcome to my Profile</h1>
+      <h1>🚀 Hey, Awesome People! Welcome to My Digital Playground! 💻</h1>
       🚀 Passionate **SOFTWARE DEVELOPER** | 🔥 JAVA & ANDROID Enthusiast
       <br/><br/>
       💡 Always learning and building cool projects! Let's connect and grow together.
