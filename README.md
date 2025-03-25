@@ -18,7 +18,7 @@
 I am a passionate and detail-oriented Software Engineer with a strong foundation in Java development, Android application design, and Firebase integration. With hands-on experience building scalable applications, I specialize in developing intuitive and efficient solutions that enhance user experience.<br><br>I have a keen interest in backend development, API integration, and cloud-based technologies, always striving to write clean, maintainable, and optimized code. My problem-solving mindset, combined with a deep understanding of data structures and algorithms, enables me to tackle complex technical challenges effectively.
 
 <div align="center">
-  <h2>👨‍🎓 ACTIVE HIRING INFORMATION</h2>
+  <h2>👨‍🎓 ACTIVELY SEEKING OPPORTUNITIES</h2>
 
   <table width="80%">
   <tr>
