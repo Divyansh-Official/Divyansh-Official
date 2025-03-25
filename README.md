@@ -18,6 +18,22 @@
 I am a passionate and detail-oriented Software Engineer with a strong foundation in Java development, Android application design, and Firebase integration. With hands-on experience building scalable applications, I specialize in developing intuitive and efficient solutions that enhance user experience.<br><br>I have a keen interest in backend development, API integration, and cloud-based technologies, always striving to write clean, maintainable, and optimized code. My problem-solving mindset, combined with a deep understanding of data structures and algorithms, enables me to tackle complex technical challenges effectively.
 
 <div align="center">
+  <h2>👨‍🎓 ACTIVE HIRING INFORMATION</h2>
+
+  <table width="80%">
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://drive.google.com/file/d/14X-nVdPhsA2eSDPXKOIK9KO3RcC-L09D/view?usp=sharing" target="_blank">
+        <div style="background: black; display: inline-block; padding: 10px;">
+  <img src="https://soldieron.org.au/wp-content/uploads/2024/07/Resume-icon_transparent-background-1024x1024.png" 
+       alt="Resume" width="60" 
+       style="mix-blend-mode: difference;">
+</div>
+
+</table>
+</div>
+
+<div align="center">
 <h2>🌐 SOCIAL PROFILES</h2>
   
 <table width="80%">
@@ -48,7 +64,6 @@ I am a passionate and detail-oriented Software Engineer with a strong foundation
     </td>
   </tr>
 </table>
-
 </div>
 
 <div align="center">
