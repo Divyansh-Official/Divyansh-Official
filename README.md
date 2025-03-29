@@ -7,7 +7,7 @@
       💡 Always learning and building cool projects! Let's connect and grow together.
     </td>
     <td>
-      <img height="250" src="https://martech.health/uploads/news-pictures/870-cedar-rapids-blog-post-image-20230906160737.png"/>
+      <img height="250" src="https://quotefancy.com/media/wallpaper/3840x2160/8119703-Cory-House-Quote-Code-is-like-humor-When-you-have-to-explain-it-it-s-bad.jpg"/>
     </td>
   </tr>
 </table>
