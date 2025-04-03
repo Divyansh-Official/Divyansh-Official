@@ -23,7 +23,7 @@ I am a passionate and detail-oriented Software Engineer with a strong foundation
   <table width="80%">
   <tr>
     <td align="center" width="25%">
-      <a href="https://drive.google.com/file/d/1tiUrtWO8NH_ZHijbW_5YeQcU2gjKMTmZ/view?usp=sharing" target="_blank">
+      <a href="https://drive.google.com/file/d/1oeZSkIf4GKDK_Yn1j6Q3e--oPI6tHmDW/view?usp=sharing" target="_blank">
         <div style="background: black; display: inline-block; padding: 10px;">
   <img src="https://soldieron.org.au/wp-content/uploads/2024/07/Resume-icon_transparent-background-1024x1024.png" 
        alt="Resume" width="60" 
