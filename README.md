@@ -34,27 +34,6 @@ I am a passionate and detail-oriented Software Engineer with a strong foundation
 </div>
 
 <div align="center">
-<h2>🔗 PERSONAL PROJECT APK LINK's</h2>
-  
-<table width="80%">
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://drive.google.com/file/d/1JIjegUuTGq7a4Fpsl2ebCf2mFuaIojpS/view?usp=sharing" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/9670/9670555.png" alt="ZENFIT" width="60"/>
-      </a>
-      <br/><b>ZENFIT - Fitness Maintenance Application</b>
-    </td>
-    <td align="center" width="25%">
-      <a href=" " target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/11981/11981129.png" alt="FLIP TRADE" width="60"/>
-      </a>
-      <br/><b>FLIP TRADE - Hyperlocal Marketplace Application</b>
-    </td>
-  </tr>
-</table>
-</div>
-
-<div align="center">
 <h2>🌐 SOCIAL PROFILES</h2>
   
 <table width="80%">
@@ -133,7 +112,6 @@ I am a passionate and detail-oriented Software Engineer with a strong foundation
         <tr>
           <td align="center"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></td>
           <td align="center"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></td>
         </tr>
       </table>
     </td>
@@ -174,26 +152,6 @@ I am a passionate and detail-oriented Software Engineer with a strong foundation
         <tr>
           <td align="center"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/></td>
           <td align="center"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td align="left" width="50%">
-      <h3>📊 DATA SCIENCE & ANALYTICS</h3>
-    </td>
-    <td align="right" width="50%">
-      <table>
-        <tr>
-          <td align="center"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/></td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white"/></td>
         </tr>
       </table>
     </td>
