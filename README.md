@@ -1,21 +1,30 @@
-<table>
+<table  align="center">
   <tr>
-    <td>
-      <h1>🚀 Hey, Awesome People! Welcome to My Digital Playground! 💻</h1>
-      🚀 Passionate **SOFTWARE DEVELOPER** | 🔥 JAVA & ANDROID Enthusiast
-      <br/><br/>
-      💡 Always learning and building cool projects! Let's connect and grow together.
-    </td>
-    <td>
-      <img height="250" src="https://quotefancy.com/media/wallpaper/3840x2160/8119703-Cory-House-Quote-Code-is-like-humor-When-you-have-to-explain-it-it-s-bad.jpg"/>
+    <td  align="center">
+      <h1  align="center">👾 Welcome to the Matrix of <span style="color:#e91e63;">Divyansh</span>! 💻</h1>
+<p style="font-size: 1.2rem;"  align="center">
+🚀 Code-warrior by day, <strong>bug-slayer</strong> by night.<br>
+🧠 Fluent in <strong>Java</strong>, obsessed with <strong>Android</strong>, powered by <em>caffeine & curiosity</em>.<br>
+🌪️ Building logic storms, pixel-perfect dreams, and backends that whisper, “I got this.”<br>
+🎯 You didn’t expect this level of <strong>awesome</strong>, did you? Welcome to the <span style="color:#2196f3;"><strong>unexpected</strong></span>.
+</p>
+      <img height="500" width="600"  align="center" src="https://img.freepik.com/premium-photo/programmer-working-new-software-while-sitting_995162-2565.jpg"/>
     </td>
   </tr>
 </table>
 
-<div align="center">
-<h2>💫 ABOUT ME</h2>
+<table border="1" width="80%" align="center" cellpadding="15">
+  <tr>
+    <td>
+      <div align="center">
+  <h2>💫 ABOUT ME</h2>
 </div>
-I am a passionate and detail-oriented Software Engineer with a strong foundation in Java development, Android application design, and Firebase integration. With hands-on experience building scalable applications, I specialize in developing intuitive and efficient solutions that enhance user experience.<br><br>I have a keen interest in backend development, API integration, and cloud-based technologies, always striving to write clean, maintainable, and optimized code. My problem-solving mindset, combined with a deep understanding of data structures and algorithms, enables me to tackle complex technical challenges effectively.
+      I am a passionate and detail-oriented Software Engineer with a strong foundation in Java development, Android application design, and Firebase integration. With hands-on experience building scalable applications, I specialize in developing intuitive and efficient solutions that enhance user experience.<br><br>
+      I have a keen interest in backend development, API integration, and cloud-based technologies, always striving to write clean, maintainable, and optimized code. My problem-solving mindset, combined with a deep understanding of data structures and algorithms, enables me to tackle complex technical challenges effectively.
+    </td>
+  </tr>
+</table>
+
 
 <div align="center">
   <h2>👨‍🎓 ACTIVELY SEEKING OPPORTUNITIES</h2>
@@ -23,7 +32,7 @@ I am a passionate and detail-oriented Software Engineer with a strong foundation
   <table width="80%">
   <tr>
     <td align="center" width="25%">
-      <a href="https://drive.google.com/file/d/1UVrYxb4QUUJnzURo7QgsBA2jrWZsNfjz/view?usp=sharing" target="_blank">
+      <a href="https://drive.google.com/file/d/1isw1SkBUSfopPJdhDhJcUPv8XhrqPZeO/view?usp=sharing" target="_blank">
         <div style="background: black; display: inline-block; padding: 10px;">
   <img src="https://soldieron.org.au/wp-content/uploads/2024/07/Resume-icon_transparent-background-1024x1024.png" 
        alt="Resume" width="60" 
@@ -73,27 +82,27 @@ I am a passionate and detail-oriented Software Engineer with a strong foundation
   <tr>
     <td align="center" width="25%">
       <a href="https://leetcode.com/u/DivyanshTiwariOfficial/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="120"/>
+        <img src="https://img2018.cnblogs.com/blog/436938/201910/436938-20191003185001637-1257384603.png" alt="LeetCode" width="150"/>
       </a>
-      <br/><b>LeetCode</b>
+<!--       <br/><b>LeetCode</b> -->
     </td>
     <td align="center" width="25%">
       <a href="https://www.codechef.com/users/codexdev" target="_blank">
-        <img src="https://s3.amazonaws.com/discourseproduction/original/1X/ba28115bd3d5badf6cce0eb175d5875dadee3b12.png" alt="CodeChef" width="120"/>
+        <img src="https://raw.githubusercontent.com/github/explore/c432a21abaa4326f9e64194b3a0a7224b4069ace/topics/codechef/codechef.png" alt="CodeChef" width="150"/>
       </a>
-      <br/><b>CodeChef</b>
+<!--       <br/><b>CodeChef</b> -->
     </td>
     <td align="center" width="25%">
       <a href="https://www.hackerrank.com/profile/iamdivyanshtiwa1" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="120"/>
+        <img src="https://miro.medium.com/max/1000/1*UGT1Rh9xLww3JeIDR1F0RQ.png" alt="HackerRank" width="150"/>
       </a>
-      <br/><b>HackerRank</b>
+<!--       <br/><b>HackerRank</b> -->
     </td>
     <td align="center" width="25%">
       <a href="https://www.geeksforgeeks.org/user/codewithdivyansh/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="120"/>
+        <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo-300x75.png" alt="GeeksforGeeks" width="150"/>
       </a>
-      <br/><b>GeeksforGeeks</b>
+<!--       <br/><b>GeeksforGeeks</b> -->
     </td>
   </tr>
 </table>
@@ -101,7 +110,8 @@ I am a passionate and detail-oriented Software Engineer with a strong foundation
 </div>
 
 <div align="center">
-  
+
+<!-- Programming Languages -->
 <table width="100%">
   <tr>
     <td align="left" width="50%">
@@ -110,17 +120,19 @@ I am a passionate and detail-oriented Software Engineer with a strong foundation
     <td align="right" width="50%">
       <table>
         <tr>
-          <td align="center"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></td>
+          <td align="center">
+            <img src="https://th.bing.com/th/id/R.a0fc95545bb93ab7f78ac1dda8e824a4?rik=9WiqGMwKGNEY0A&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fjava-png-java-icon-png-500.png&ehk=xQg7keVeqckEI%2b%2bNyLS6CQoYhDBO4i5yO91hAlCZDa4%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" width="40" height="40" alt="Java"/>
+          </td>
+          <td align="center">
+            <img src="https://th.bing.com/th/id/R.e7971315bca34b16fef72408f4a96519?rik=OGtImcxLQgIWcQ&pid=ImgRaw&r=0" width="40" height="40" alt="C++"/>
+          </td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
 
-</div>
-<div align="center">
-
+<!-- Backend & Cloud Services -->
 <table width="100%">
   <tr>
     <td align="left" width="50%">
@@ -129,19 +141,30 @@ I am a passionate and detail-oriented Software Engineer with a strong foundation
     <td align="right" width="50%">
       <table>
         <tr>
-          <td align="center"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/></td>
+          <td align="center">
+            <img src="https://play-lh.googleusercontent.com/K9Jf-N8RWHDw2IZSY_vjSfIVm2X6jGN9riRIAK9nl_BgJxpYK2VQWQl-yPlCtBUTNasw" width="40" height="40" alt="Spring"/>
+          </td>
+          <td align="center">
+            <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-amazon-web-services-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-service-brand-pack-logos-icons-6507782.png" width="40" height="40" alt="AWS"/>
+          </td>
+          <td align="center">
+            <img src="https://www.svgrepo.com/show/353735/firebase.svg" width="40" height="40" alt="Firebase"/>
+          </td>
         </tr>
         <tr>
-          <td align="center" colspan="2"><img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></td>
+          <td align="center" colspan="2">
+            <img src="https://miro.medium.com/v2/resize:fit:374/1*pVQbzIYpH2aA2tpQAKQgKA.png" width="40" height="40" alt="Appwrite"/>
+          </td>
+          <td align="center">
+            <img src="https://www.pngmart.com/files/23/Oracle-Logo-PNG-Image.png" width="40" height="40" alt="Oracle"/>
+          </td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
 
+<!-- Databases -->
 <table width="100%">
   <tr>
     <td align="left" width="50%">
@@ -150,14 +173,19 @@ I am a passionate and detail-oriented Software Engineer with a strong foundation
     <td align="right" width="50%">
       <table>
         <tr>
-          <td align="center"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/></td>
+          <td align="center">
+            <img src="https://cdn.letsremotify.com/Mobile+App+dev/Technology+Stacks/Database/SQlite.png" width="40" height="40" alt="SQLite"/>
+          </td>
+          <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+          </td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
 
+<!-- UI/UX & Design -->
 <table width="100%">
   <tr>
     <td align="left" width="50%">
@@ -166,14 +194,19 @@ I am a passionate and detail-oriented Software Engineer with a strong foundation
     <td align="right" width="50%">
       <table>
         <tr>
-          <td align="center"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/></td>
+          <td align="center">
+            <img src="https://static.vecteezy.com/system/resources/previews/032/050/116/original/figma-3d-icon-free-png.png" width="40" height="40" alt="Figma"/>
+          </td>
+          <td align="center">
+            <img src="https://static.vecteezy.com/system/resources/previews/047/657/562/non_2x/canva-3d-icon-free-png.png" width="40" height="40" alt="Canva"/>
+          </td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
 
+<!-- Version Control & DevOps -->
 <table width="100%">
   <tr>
     <td align="left" width="50%">
@@ -182,8 +215,12 @@ I am a passionate and detail-oriented Software Engineer with a strong foundation
     <td align="right" width="50%">
       <table>
         <tr>
-          <td align="center"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></td>
+          <td align="center">
+            <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253809/git-icon-md.png" width="80" height="30" alt="Git"/>
+          </td>
+          <td align="center">
+            <img src="https://static.vecteezy.com/system/resources/previews/046/437/248/original/github-logo-transparent-background-free-png.png" width="60" height="60" alt="GitHub"/>
+          </td>
         </tr>
       </table>
     </td>
@@ -191,6 +228,7 @@ I am a passionate and detail-oriented Software Engineer with a strong foundation
 </table>
 
 </div>
+
 
 <div align="center">
 
@@ -214,6 +252,11 @@ I am a passionate and detail-oriented Software Engineer with a strong foundation
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=Divyansh-Official&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+
+<div align="center">
+  <img src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" height="275" width="50%" alt="Coding GIF" />
+</div>
+<br>
 
 <table width="100%">
   <tr>
