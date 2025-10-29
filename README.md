@@ -8,7 +8,11 @@
 🌪️ Building logic storms, pixel-perfect dreams, and backends that whisper, “I got this.”<br>
 🎯 You didn’t expect this level of <strong>awesome</strong>, did you? Welcome to the <span style="color:#2196f3;"><strong>unexpected</strong></span>.
 </p>
-      <img align="center" href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=505050&center=true&vCenter=true&width=435&lines=Native+App+Dev+%7C+Backend+Enthusiast;Instagram+%3A+%40codewithdivyansh;Telegram+%3A+%40divyanshmusicofficial" alt="Typing SVG" />
+      <img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=505050&center=true&vCenter=true&width=435&lines=Native+App+Dev+%7C+Backend+Enthusiast;Instagram+%3A+%40codewithdivyansh;Telegram+%3A+%40divyanshmusicofficial"
+  alt="Typing SVG"
+  loading="lazy"
+/>
       <img height="450" width="800"  align="center" src="https://images8.alphacoders.com/115/thumb-1920-1156488.png"/>
     </td>
   </tr>
