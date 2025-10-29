@@ -137,21 +137,21 @@
       <table>
         <tr>
           <td align="center">
-            <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" width="40" height="40" alt="Spring"/>
+            <img src="https://img.icons8.com/?size=100&id=A3Ulk2RcONKs&format=png&color=000000" width="70" height="70" alt="Spring"/>
           </td>
           <td align="center">
-            <img src="https://img.icons8.com/?size=100&id=nTxnreeoeQxh&format=png&color=000000" width="40" height="40" alt="AWS"/>
+            <img src="https://img.icons8.com/?size=100&id=nTxnreeoeQxh&format=png&color=000000" width="70" height="70" alt="AWS"/>
           </td>
           <td align="center">
-            <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" width="40" height="40" alt="Firebase"/>
+            <img src="https://img.icons8.com/?size=100&id=evasjCvrqrHU&format=png&color=000000" width="70" height="70" alt="Firebase"/>
           </td>
         </tr>
         <tr>
           <td align="center" colspan="2">
-            <img src="https://appwrite.io/images/appwrite-logo.svg" width="40" height="40" alt="Appwrite"/>
+            <img src="https://github.com/user-attachments/assets/c4828b78-93a5-4fbd-9b61-95ad24caae49" width="70" height="70" alt="Appwrite"/>
           </td>
           <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/>
+            <img src="https://img.icons8.com/?size=100&id=8ljTDYUEydbJ&format=png&color=000000" width="90" height="90" alt="Oracle"/>
           </td>
         </tr>
       </table>
@@ -168,10 +168,10 @@
       <table>
         <tr>
           <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40" alt="SQLite"/>
+            <img src="https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=000000" width="50" height="50" alt="SQLite"/>
           </td>
           <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+            <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="50" height="50" alt="MySQL"/>
           </td>
         </tr>
       </table>
@@ -188,10 +188,10 @@
       <table>
         <tr>
           <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+            <img src="https://img.icons8.com/?size=100&id=HGd2amAYhRGr&format=png&color=000000" width="60" height="60" alt="Figma"/>
           </td>
           <td align="center">
-            <img src="https://static-00.iconduck.com/assets.00/canva-icon-2048x2048-03i8e3e7.png" width="40" height="40" alt="Canva"/>
+            <img src="https://img.icons8.com/?size=100&id=uhcBDl2aashO&format=png&color=000000" width="60" height="60" alt="Canva"/>
           </td>
         </tr>
       </table>
@@ -207,11 +207,11 @@
     <td align="right" width="50%">
       <table>
         <tr>
-          <td align="center">
+          <!-- <td align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="80" height="30" alt="Git"/>
-          </td>
+          </td> -->
           <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60" alt="GitHub"/>
+            <img src="https://img.icons8.com/?size=100&id=SyIpM4vSpYTF&format=png&color=000000" width="60" height="60" alt="GitHub"/>
           </td>
         </tr>
       </table>
@@ -246,7 +246,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Divyansh-Official&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
 
 <div align="center">
-  <img src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" height="275" width="50%" alt="Coding GIF" />
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" height="275" width="50%" alt="Coding GIF" />
 </div>
 <br>
 
