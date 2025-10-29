@@ -117,10 +117,10 @@
       <table>
         <tr>
           <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java"/>
+            <img src="https://img.icons8.com/?size=100&id=r9dRghJCu8j2&format=png&color=000000" width="80" height="80" alt="Java"/>
           </td>
           <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+            <img src="https://img.icons8.com/?size=100&id=kTDGDsTxoGYs&format=png&color=000000" width="80" height="80" alt="C++"/>
           </td>
         </tr>
       </table>
@@ -137,13 +137,13 @@
       <table>
         <tr>
           <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" alt="Spring"/>
+            <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" width="40" height="40" alt="Spring"/>
           </td>
           <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+            <img src="https://img.icons8.com/?size=100&id=nTxnreeoeQxh&format=png&color=000000" width="40" height="40" alt="AWS"/>
           </td>
           <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" alt="Firebase"/>
+            <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" width="40" height="40" alt="Firebase"/>
           </td>
         </tr>
         <tr>
