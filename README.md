@@ -49,29 +49,29 @@
 <table width="80%">
   <tr>
     <td align="center" width="25%">
-      <a href="https://instagram.com/codewithdivyansh" target="_blank">
+      <a style="text-decoration:none; href="https://linkedin.com/in/divyansh-tiwari-100299288" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=118979&format=png&color=000000" alt="LinkedIn" width="60"/>
+      </a>
+      <br/><b>LinkedIn</b>
+    </td>
+    <td align="center" width="25%">
+      <a style="text-decoration:none; href="https://instagram.com/codewithdivyansh" target="_blank" style="text-decoration:none;">
         <img src="https://img.icons8.com/?size=100&id=119026&format=png&color=000000" alt="Instagram" width="60"/>
       </a>
       <br/><b>Instagram</b>
     </td>
     <td align="center" width="25%">
-      <a href="https://linkedin.com/in/divyansh-tiwari-100299288" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=118979&format=png&color=000000" alt="LinkedIn" width="60"/>
-      </a>
-      <br/><b>LinkedIn</b>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://x.com/codedivyansh" target="_blank">
+      <a style="text-decoration:none; href="https://x.com/codedivyansh" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=119014&format=png&color=000000" alt="X" width="60"/>
       </a>
       <br/><b>X</b>
     </td>
-    <td align="center" width="25%">
-      <a href="mailto:iamdivyanshtiwari@gmail.com" target="_blank">
+    <!-- <td align="center" width="25%">
+      <a style="text-decoration:none; href="mailto:iamdivyanshtiwari@gmail.com" target="_blank">
         <img src="" alt="Email" width="60"/>
       </a>
       <br/><b>Email</b>
-    </td>
+    </td> -->
   </tr>
 </table>
 </div>
@@ -82,23 +82,23 @@
 <table width="100%">
   <tr>
     <td align="center" width="25%">
-      <a href="https://leetcode.com/u/DivyanshTiwariOfficial/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="150"/>
+      <a style="text-decoration:none; href="https://leetcode.com/u/DivyanshTiwariOfficial" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=rYBVqyU1tdKG&format=png&color=000000" alt="LeetCode" width="150"/>
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://www.codechef.com/users/codexdev" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/CodeChef_logo.png/1200px-CodeChef_logo.png" alt="CodeChef" width="150"/>
+      <a style="text-decoration:none; href="https://www.codechef.com/users/codexdev" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=DgvGrC390z9J&format=png&color=000000" alt="CodeChef" width="150"/>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a style="text-decoration:none; href="https://www.geeksforgeeks.org/user/codewithdivyansh" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" alt="GeeksforGeeks" width="150"/>
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://www.hackerrank.com/profile/iamdivyanshtiwa1" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="150"/>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://www.geeksforgeeks.org/user/codewithdivyansh/" target="_blank">
-        <img src="https://static.cdnlogo.com/logos/g/38/geeksforgeeks.svg" alt="GeeksforGeeks" width="150"/>
+      <a style="text-decoration:none; href="https://www.hackerrank.com/profile/iamdivyanshtiwa1" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=ncFgtpO82Fwt&format=png&color=000000" alt="HackerRank" width="150"/>
       </a>
     </td>
   </tr>
