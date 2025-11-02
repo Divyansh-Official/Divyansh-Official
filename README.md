@@ -53,7 +53,7 @@
 <table width="80%">
   <tr>
     <td align="center" width="25%">
-      <a style="text-decoration:none; href="https://linkedin.com/in/divyansh-tiwari-100299288" target="_blank">
+      <a style="text-decoration:none; href="https://www.linkedin.com/in/iamdivyanshtiwari/" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=118979&format=png&color=000000" alt="LinkedIn" width="60"/>
       </a>
       <br/><b>LinkedIn</b>
