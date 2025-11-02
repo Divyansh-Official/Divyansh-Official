@@ -37,7 +37,7 @@
   <table width="80%">
   <tr>
     <td align="center" width="25%">
-      <a href="https://drive.google.com/file/d/13XL_OBhEn71CNKz7hBBhktOlUIOAqFns/view?usp=sharing" target="_blank">
+      <a href="https://drive.google.com/file/d/1QM6jOIZBkV55zl8a2XR6n519n9XBaE-p/view?usp=sharing" target="_blank">
         <div style="background: black; display: inline-block; padding: 10px;">
   <img src="https://soldieron.org.au/wp-content/uploads/2024/07/Resume-icon_transparent-background-1024x1024.png" 
        alt="Resume" width="60" 
