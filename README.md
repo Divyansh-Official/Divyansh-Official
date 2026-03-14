@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Divyansh%20Tiwari&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Native%20App%20Dev%20%7C%20Backend%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
-<!-- ═══════════════════════════ TYPING SVG ═══════════════════════════ -->
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&width=700&height=45&lines=👾+Code-warrior+by+day%2C+bug-slayer+by+night;🚀+Building+Android+Apps+that+matter;☕+Powered+by+caffeine+%26+curiosity;🔥+Java+%7C+Spring+%7C+Firebase+%7C+AWS;💡+Turning+ideas+into+reality%2C+one+commit+at+a+time)](https://git.io/typing-svg)
 
 <br/><br/>
 
-<!-- ═══════════════════════════ SOCIAL BADGES ═══════════════════════════ -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamdivyanshtiwari/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codewithdivyansh)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/codedivyansh)
@@ -21,7 +18,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Divyansh-Official&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/Divyansh-Official)
 [![Followers](https://img.shields.io/github/followers/Divyansh-Official?style=for-the-badge&color=ec4899&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/Divyansh-Official?tab=followers)
-[![Resume](https://img.shields.io/badge/MY%20RESUME-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Ubm4mVfO0yZWtcZ8PAwM_itCiBwrZpdJ/view?usp=drive_link)
 
 </div>
 
@@ -30,7 +26,6 @@
 ## 💫 &nbsp;ABOUT ME
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
@@ -38,9 +33,9 @@
 ```java
 public class Divyansh extends Developer {
 
-    final String  NAME        = "Divyansh Tiwari";
-    final String  ROLE        = "Software Engineer";
-    final String  LOCATION    = "Chandigarh, India 🇮🇳";
+    final String  NAME         = "Divyansh Tiwari";
+    final String  ROLE         = "Software Engineer";
+    final String  LOCATION     = "Chandigarh, India 🇮🇳";
     final boolean OPEN_TO_WORK = true;
 
     String[] languages = {
@@ -71,7 +66,7 @@ public class Divyansh extends Developer {
 </td>
 <td width="50%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-Official&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=6" width="240"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-Official&layout=compact&theme=tokyonight&hide_border=false&border_color=a78bfa&border_radius=12&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" width="300"/>
 
 <br/><br/>
 
@@ -83,8 +78,39 @@ public class Divyansh extends Developer {
 
 <br/>
 
-[![Open to Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-1a7f37?style=for-the-badge)](https://www.linkedin.com/in/iamdivyanshtiwari/)
+[![Open to Work](https://img.shields.io/badge/●%20OPEN%20TO%20WORK-1a7f37?style=social&logo=green-circle&logoColor=white&labelColor=1a7f37&color=1a7f37)](https://www.linkedin.com/in/iamdivyanshtiwari/)
 
+<br/>
+
+<a href="https://www.linkedin.com/in/iamdivyanshtiwari/">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Open%20To%20Work-1a7f37?style=for-the-badge&logo=check-circle&logoColor=white&labelColor=145a2c" />
+</a>
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📄 &nbsp;RESUME
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<br/>
+<a href="https://drive.google.com/file/d/1Ubm4mVfO0yZWtcZ8PAwM_itCiBwrZpdJ/view?usp=drive_link" target="_blank">
+<img src="https://img.icons8.com/?size=100&id=zEj141qHoHc8&format=png&color=000000" width="90" height="90"/>
+</a>
+<br/><br/>
+<a href="https://drive.google.com/file/d/1Ubm4mVfO0yZWtcZ8PAwM_itCiBwrZpdJ/view?usp=drive_link" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20MY%20RESUME-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white" height="38"/>
+</a>
+<br/><br/>
+<i>Click to view / download my latest resume</i>
+<br/><br/>
 </td>
 </tr>
 </table>
@@ -97,206 +123,122 @@ public class Divyansh extends Developer {
 
 <div align="center">
 
+<!-- ══════ ROW 1 : Languages  |  Mobile & Android ══════ -->
+<table width="100%">
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+**🖥️ &nbsp;Programming Languages**
+
+<br/>
+
 <table>
+<tr>
+<td align="center" width="33%"><br/><img src="https://skillicons.dev/icons?i=java&theme=dark" width="65" height="65"/><br/><br/><b>Java</b><br/><br/></td>
+<td align="center" width="33%"><br/><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="65" height="65"/><br/><br/><b>C++</b><br/><br/></td>
+<td align="center" width="33%"><br/><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="65" height="65"/><br/><br/><b>Kotlin</b><br/><br/></td>
+</tr>
+</table>
 
-<tr>
-<td align="center" colspan="3">
-<br/>
-<h3>🖥️ &nbsp;Programming Languages</h3>
 </td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<br/>
-<img src="https://skillicons.dev/icons?i=java&theme=dark" width="65" height="65"/>
-<br/><br/>
-<b>Java</b>
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="65" height="65"/>
-<br/><br/>
-<b>C++</b>
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="65" height="65"/>
-<br/><br/>
-<b>Kotlin</b>
-<br/><br/>
-</td>
-</tr>
 
-<tr>
-<td align="center" colspan="3">
-<hr/>
-<h3>📱 &nbsp;Mobile & Android</h3>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="1">
-<br/>
-<img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="65" height="65"/>
-<br/><br/>
-<b>Android Studio</b>
-<br/><br/>
-</td>
-<td align="center" colspan="2">
-<br/>
-<img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="65" height="65"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java&theme=dark" width="65" height="65"/>
-<br/><br/>
-<b>Kotlin &nbsp;·&nbsp; Java (Android)</b>
-<br/><br/>
-</td>
-</tr>
+<td width="50%" align="center" valign="top">
 
-<tr>
-<td align="center" colspan="3">
-<hr/>
-<h3>☁️ &nbsp;Backend & Cloud Services</h3>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<br/>
-<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="65" height="65"/>
-<br/><br/>
-<b>Spring Boot</b>
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="65" height="65"/>
-<br/><br/>
-<b>AWS</b>
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="65" height="65"/>
-<br/><br/>
-<b>Firebase</b>
-<br/><br/>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="1">
-<br/>
-<img src="https://skillicons.dev/icons?i=appwrite&theme=dark" width="65" height="65"/>
-<br/><br/>
-<b>Appwrite</b>
-<br/><br/>
-</td>
-<td align="center" colspan="2">
-<br/>
-<img src="https://skillicons.dev/icons?i=maven&theme=dark" width="65" height="65"/>
-<br/><br/>
-<b>Maven</b>
-<br/><br/>
-</td>
-</tr>
+**📱 &nbsp;Mobile & Android**
 
-<tr>
-<td align="center" colspan="3">
-<hr/>
-<h3>🗄️ &nbsp;Databases</h3>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="65" height="65"/>
-<br/><br/>
-<b>MySQL</b>
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="65" height="65"/>
-<br/><br/>
-<b>SQLite</b>
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<img src="https://skillicons.dev/icons?i=oracle&theme=dark" width="65" height="65"/>
-<br/><br/>
-<b>Oracle</b>
-<br/><br/>
-</td>
-</tr>
 
+<table>
 <tr>
-<td align="center" colspan="3">
-<hr/>
-<h3>🎨 &nbsp;UI / UX & Design</h3>
-</td>
+<td align="center" width="50%"><br/><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="65" height="65"/><br/><br/><b>Android Studio</b><br/><br/></td>
+<td align="center" width="50%"><br/><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="65" height="65"/><br/><br/><b>Kotlin</b><br/><br/></td>
 </tr>
-<tr>
-<td align="center" width="33%">
-<br/>
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="65" height="65"/>
-<br/><br/>
-<b>Figma</b>
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<img src="https://skillicons.dev/icons?i=canva&theme=dark" width="65" height="65"/>
-<br/><br/>
-<b>Canva</b>
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-&nbsp;
-<br/><br/>
-</td>
-</tr>
+</table>
 
-<tr>
-<td align="center" colspan="3">
-<hr/>
-<h3>🛠️ &nbsp;Version Control & DevOps</h3>
 </td>
 </tr>
-<tr>
-<td align="center" width="33%">
-<br/>
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="65" height="65"/>
-<br/><br/>
-<b>Git</b>
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="65" height="65"/>
-<br/><br/>
-<b>GitHub</b>
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<img src="https://skillicons.dev/icons?i=idea&theme=dark" width="65" height="65"/>
-<br/><br/>
-<b>IntelliJ IDEA</b>
-<br/><br/>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="3">
-<br/>
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="65" height="65"/>
-<br/><br/>
-<b>Postman</b>
-<br/><br/>
-</td>
-</tr>
+</table>
 
+<br/>
+
+<!-- ══════ ROW 2 : Backend & Cloud  |  Databases ══════ -->
+<table width="100%">
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+**☁️ &nbsp;Backend & Cloud Services**
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%"><br/><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="65" height="65"/><br/><br/><b>Spring Boot</b><br/><br/></td>
+<td align="center" width="25%"><br/><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="65" height="65"/><br/><br/><b>AWS</b><br/><br/></td>
+<td align="center" width="25%"><br/><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="65" height="65"/><br/><br/><b>Firebase</b><br/><br/></td>
+<td align="center" width="25%"><br/><img src="https://skillicons.dev/icons?i=appwrite&theme=dark" width="65" height="65"/><br/><br/><b>Appwrite</b><br/><br/></td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+**🗄️ &nbsp;Databases**
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%"><br/><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="65" height="65"/><br/><br/><b>MySQL</b><br/><br/></td>
+<td align="center" width="33%"><br/><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="65" height="65"/><br/><br/><b>SQLite</b><br/><br/></td>
+<td align="center" width="33%"><br/><img src="https://skillicons.dev/icons?i=oracle&theme=dark" width="65" height="65"/><br/><br/><b>Oracle</b><br/><br/></td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ══════ ROW 3 : Design  |  DevOps ══════ -->
+<table width="100%">
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+**🎨 &nbsp;UI / UX & Design**
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%"><br/><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="65" height="65"/><br/><br/><b>Figma</b><br/><br/></td>
+<td align="center" width="50%"><br/><img src="https://img.icons8.com/fluency/65/canva.png" width="65" height="65"/><br/><br/><b>Canva</b><br/><br/></td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+**🛠️ &nbsp;Version Control & DevOps**
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%"><br/><img src="https://skillicons.dev/icons?i=git&theme=dark" width="65" height="65"/><br/><br/><b>Git</b><br/><br/></td>
+<td align="center" width="25%"><br/><img src="https://skillicons.dev/icons?i=github&theme=dark" width="65" height="65"/><br/><br/><b>GitHub</b><br/><br/></td>
+<td align="center" width="25%"><br/><img src="https://skillicons.dev/icons?i=idea&theme=dark" width="65" height="65"/><br/><br/><b>IntelliJ IDEA</b><br/><br/></td>
+<td align="center" width="25%"><br/><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="65" height="65"/><br/><br/><b>Postman</b><br/><br/></td>
+</tr>
+</table>
+
+</td>
+</tr>
 </table>
 
 </div>
@@ -307,61 +249,63 @@ public class Divyansh extends Developer {
 
 <div align="center">
 
-<table>
-
+<table width="100%">
 <tr>
-<td align="center" colspan="2">
-<h3>🧩 &nbsp;Problem Solving</h3>
-</td>
-</tr>
+
+<td width="50%" align="center" valign="top">
+
+**🧩 &nbsp;Problem Solving**
+
+<br/>
+
+<table>
 <tr>
 <td align="center" width="50%">
 <br/>
 <a href="https://leetcode.com/u/DivyanshTiwariOfficial" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="40"/>
 </a>
-<br/>
-<code>DivyanshTiwariOfficial</code>
-<br/><br/>
+<br/><code>DivyanshTiwariOfficial</code><br/><br/>
 </td>
 <td align="center" width="50%">
 <br/>
 <a href="https://www.hackerrank.com/profile/iamdivyanshtiwa1" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" height="40"/>
 </a>
-<br/>
-<code>iamdivyanshtiwa1</code>
-<br/><br/>
+<br/><code>iamdivyanshtiwa1</code><br/><br/>
 </td>
 </tr>
+</table>
 
-<tr>
-<td align="center" colspan="2">
-<hr/>
-<h3>📚 &nbsp;Learning & Practice</h3>
 </td>
-</tr>
+
+<td width="50%" align="center" valign="top">
+
+**📚 &nbsp;Learning & Practice**
+
+<br/>
+
+<table>
 <tr>
 <td align="center" width="50%">
 <br/>
 <a href="https://www.geeksforgeeks.org/user/codewithdivyansh" target="_blank">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="40"/>
 </a>
-<br/>
-<code>codewithdivyansh</code>
-<br/><br/>
+<br/><code>codewithdivyansh</code><br/><br/>
 </td>
 <td align="center" width="50%">
 <br/>
 <a href="https://www.codechef.com/users/codexdev" target="_blank">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="40"/>
 </a>
-<br/>
-<code>codexdev</code>
-<br/><br/>
+<br/><code>codexdev</code><br/><br/>
 </td>
 </tr>
+</table>
 
+</td>
+</tr>
 </table>
 
 </div>
@@ -376,12 +320,13 @@ public class Divyansh extends Developer {
 <tr>
 <td align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyansh-Official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899&text_color=ffffff&include_all_commits=true&rank_icon=github)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyansh-Official&show_icons=true&theme=tokyonight&hide_border=false&border_color=a78bfa&border_radius=12&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899&text_color=ffffff&count_private=true&rank_icon=github)](https://github.com/Divyansh-Official)
+
 
 </td>
 <td align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Divyansh-Official&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Divyansh-Official&theme=tokyonight&hide_border=false&border=a78bfa&border_radius=12&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff)](https://camo.githubusercontent.com/c4ff1b91bb995482169436d55799225b1821c109392bf6c88e24fbc0e52c958c/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d44697679616e73682d4f6666696369616c267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565266261636b67726f756e643d3064313131372672696e673d61373862666126666972653d656334383939266375727253747265616b4c6162656c3d61373862666126736964654c6162656c733d6137386266612664617465733d666666666666)
 
 </td>
 </tr>
@@ -395,7 +340,7 @@ public class Divyansh extends Developer {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Divyansh-Official&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=Divyansh-Official&theme=tokyonight&no-frame=false&no-bg=true&margin-w=10&margin-h=10&column=3&row=2&title=MultiLanguage,Commits,Stars,Repositories,Issues,PullRequest" />
 
 </div>
 
