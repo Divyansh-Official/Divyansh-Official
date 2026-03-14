@@ -1,268 +1,257 @@
-<table  align="center">
-  <tr>
-    <td  align="center">
-      <h1  align="center">👾 Welcome to the Matrix of <span style="color:#e91e63;">Divyansh</span>! 💻</h1>
-<p style="font-size: 1.2rem;"  align="center">
-🚀 Code-warrior by day, <strong>bug-slayer</strong> by night.<br>
-🧠 Fluent in <strong>Java</strong>, obsessed with <strong>Android</strong>, powered by <em>caffeine & curiosity</em>.<br>
-🌪️ Building logic storms, pixel-perfect dreams, and backends that whisper, “I got this.”<br>
-🎯 You didn’t expect this level of <strong>awesome</strong>, did you? Welcome to the <span style="color:#2196f3;"><strong>unexpected</strong></span>.
-</p>
-      <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=505050&center=true&vCenter=true&width=435&lines=Native+App+Dev+%7C+Backend+Enthusiast;Instagram+%3A+%40codewithdivyansh;Telegram+%3A+%40divyanshmusicofficial"
-  alt="Typing SVG"
-  loading="lazy"
-/>
-      <img height="450" width="800"  align="center" src="https://images8.alphacoders.com/115/thumb-1920-1156488.png"/>
-    </td>
-  </tr>
-</table>
-
-<table border="1" width="80%" align="center" cellpadding="15">
-  <tr>
-    <td>
-      <div align="center">
-  <h2>💫 ABOUT ME</h2>
-</div>
-      I am a passionate and detail-oriented Software Engineer with a strong foundation in Java development, Android application design, and Firebase integration. With hands-on experience building scalable applications, I specialize in developing intuitive and efficient solutions that enhance user experience.<br><br>
-      I have a keen interest in backend development, API integration, and cloud-based technologies, always striving to write clean, maintainable, and optimized code. My problem-solving mindset, combined with a deep understanding of data structures and algorithms, enables me to tackle complex technical challenges effectively.
-    </td>
-  </tr>
-</table>
-
-
-<div align="center">
-  <h2>👨‍🎓 ACTIVELY SEEKING OPPORTUNITIES</h2>
-
-  <table width="80%">
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://drive.google.com/file/d/1Ubm4mVfO0yZWtcZ8PAwM_itCiBwrZpdJ/view?usp=drive_link" target="_blank">
-        <div style="background: black; display: inline-block; padding: 10px;">
-  <img src="https://soldieron.org.au/wp-content/uploads/2024/07/Resume-icon_transparent-background-1024x1024.png" 
-       alt="Resume" width="60" 
-       style="mix-blend-mode: difference;">
-</div>
-
-</table>
-</div>
-
-<div align="center">
-<h2>🌐 SOCIAL PROFILES</h2>
-  
-<table width="80%">
-  <tr>
-    <td align="center" width="25%">
-      <a style="text-decoration:none; href="https://www.linkedin.com/in/iamdivyanshtiwari/" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=118979&format=png&color=000000" alt="LinkedIn" width="60"/>
-      </a>
-      <br/><b>LinkedIn</b>
-    </td>
-    <td align="center" width="25%">
-      <a style="text-decoration:none; href="https://instagram.com/codewithdivyansh" target="_blank" style="text-decoration:none;">
-        <img src="https://img.icons8.com/?size=100&id=119026&format=png&color=000000" alt="Instagram" width="60"/>
-      </a>
-      <br/><b>Instagram</b>
-    </td>
-    <td align="center" width="25%">
-      <a style="text-decoration:none; href="https://x.com/codedivyansh" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=119014&format=png&color=000000" alt="X" width="60"/>
-      </a>
-      <br/><b>X</b>
-    </td>
-    <!-- <td align="center" width="25%">
-      <a style="text-decoration:none; href="mailto:iamdivyanshtiwari@gmail.com" target="_blank">
-        <img src="" alt="Email" width="60"/>
-      </a>
-      <br/><b>Email</b>
-    </td> -->
-  </tr>
-</table>
-</div>
-
-<div align="center">
-<h2> 🚀 CODING PROFILES </h2>
-  
-<table width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <a style="text-decoration:none; href="https://leetcode.com/u/DivyanshTiwariOfficial" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=rYBVqyU1tdKG&format=png&color=000000" alt="LeetCode" width="150"/>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a style="text-decoration:none; href="https://www.codechef.com/users/codexdev" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=DgvGrC390z9J&format=png&color=000000" alt="CodeChef" width="150"/>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a style="text-decoration:none; href="https://www.geeksforgeeks.org/user/codewithdivyansh" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" alt="GeeksforGeeks" width="150"/>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a style="text-decoration:none; href="https://www.hackerrank.com/profile/iamdivyanshtiwa1" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=ncFgtpO82Fwt&format=png&color=000000" alt="HackerRank" width="150"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
 <div align="center">
 
-<table width="100%">
-  <tr>
-    <td align="left" width="50%">
-      <h3>💻 PROGRAMMING LANGUAGES</h3>
-    </td>
-    <td align="right" width="50%">
-      <table>
-        <tr>
-          <td align="center">
-            <img src="https://img.icons8.com/?size=100&id=r9dRghJCu8j2&format=png&color=000000" width="80" height="80" alt="Java"/>
-          </td>
-          <td align="center">
-            <img src="https://img.icons8.com/?size=100&id=kTDGDsTxoGYs&format=png&color=000000" width="80" height="80" alt="C++"/>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Divyansh%20Tiwari&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Native%20App%20Dev%20%7C%20Backend%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
-<table width="100%">
-  <tr>
-    <td align="left" width="50%">
-      <h3>🌐 BACKEND & CLOUD SERVICES</h3>
-    </td>
-    <td align="right" width="50%">
-      <table>
-        <tr>
-          <td align="center">
-            <img src="https://img.icons8.com/?size=100&id=A3Ulk2RcONKs&format=png&color=000000" width="70" height="70" alt="Spring"/>
-          </td>
-          <td align="center">
-            <img src="https://img.icons8.com/?size=100&id=nTxnreeoeQxh&format=png&color=000000" width="70" height="70" alt="AWS"/>
-          </td>
-          <td align="center">
-            <img src="https://img.icons8.com/?size=100&id=evasjCvrqrHU&format=png&color=000000" width="70" height="70" alt="Firebase"/>
-          </td>
-        </tr>
-        <tr>
-          <td align="center" colspan="2">
-            <img src="https://github.com/user-attachments/assets/c4828b78-93a5-4fbd-9b61-95ad24caae49" width="70" height="70" alt="Appwrite"/>
-          </td>
-          <td align="center">
-            <img src="https://img.icons8.com/?size=100&id=8ljTDYUEydbJ&format=png&color=000000" width="90" height="90" alt="Oracle"/>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<br/>
 
-<table width="100%">
-  <tr>
-    <td align="left" width="50%">
-      <h3>📦 DATABASES</h3>
-    </td>
-    <td align="right" width="50%">
-      <table>
-        <tr>
-          <td align="center">
-            <img src="https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=000000" width="50" height="50" alt="SQLite"/>
-          </td>
-          <td align="center">
-            <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="50" height="50" alt="MySQL"/>
-          </td>
-        </tr>
-      </table>
-      </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=👾+Code-warrior+by+day%2C+bug-slayer+by+night;🚀+Building+Android+Apps+that+matter;☕+Powered+by+caffeine+%26+curiosity;🔥+Java+%7C+Spring+%7C+Firebase+%7C+AWS;💡+Turning+ideas+into+reality%2C+one+commit+at+a+time" alt="Typing SVG"/>
 
-<table width="100%">
-  <tr>
-    <td align="left" width="50%">
-      <h3>🎨 UI/UX & DESIGN TOOLS</h3>
-      </td>
-    <td align="right" width="50%">
-      <table>
-        <tr>
-          <td align="center">
-            <img src="https://img.icons8.com/?size=100&id=HGd2amAYhRGr&format=png&color=000000" width="60" height="60" alt="Figma"/>
-          </td>
-          <td align="center">
-            <img src="https://img.icons8.com/?size=100&id=uhcBDl2aashO&format=png&color=000000" width="60" height="60" alt="Canva"/>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<br/><br/>
 
-<table width="100%">
-  <tr>
-    <td align="left" width="50%">
-      <h3>🛠️ VERSION CONTROLS & DEVOPS</h3>
-    </td>
-    <td align="right" width="50%">
-      <table>
-        <tr>
-          <!-- <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="80" height="30" alt="Git"/>
-          </td> -->
-          <td align="center">
-            <img src="https://img.icons8.com/?size=100&id=SyIpM4vSpYTF&format=png&color=000000" width="60" height="60" alt="GitHub"/>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamdivyanshtiwari/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codewithdivyansh)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/codedivyansh)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamdivyanshtiwari@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/divyanshmusicofficial)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Divyansh-Official&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/Divyansh-Official)
+[![Followers](https://img.shields.io/github/followers/Divyansh-Official?style=for-the-badge&color=ec4899&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/Divyansh-Official?tab=followers)
+[![Resume](https://img.shields.io/badge/MY%20RESUME-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Ubm4mVfO0yZWtcZ8PAwM_itCiBwrZpdJ/view?usp=drive_link)
 
 </div>
 
+---
+
+## 💫 &nbsp;ABOUT ME
 
 <div align="center">
-
-<h2>📊 GITHUB STATS  </h2>
 
 <table>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Divyansh-Official&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Divyansh-Official&theme=dark&hide_border=true" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+```java
+public class Divyansh extends Developer {
+
+  final String NAME     = "Divyansh Tiwari";
+  final String ROLE     = "Software Engineer";
+  final String LOCATION = "Chandigarh, India 🇮🇳";
+  final boolean OPEN_TO_WORK = true;
+
+  String[] languages = { "Java", "C++" };
+
+  String[] stack = {
+    "Android SDK", "Spring Boot",
+    "Firebase",    "AWS",
+    "Appwrite",    "MySQL", "SQLite"
+  };
+
+  String[] currentlyLearning = {
+    "App Performance Optimization",
+    "System Design",
+    "Cloud Architecture"
+  };
+
+  void funFact() {
+    System.out.println(
+      "I debug faster with coffee ☕"
+    );
+  }
+}
+```
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-Official&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=6" width="230"/>
+
+<br/><br/>
+
+🎯 &nbsp;**Actively seeking opportunities**
+
+📧 &nbsp;`iamdivyanshtiwari@gmail.com`
+
+📍 &nbsp;Chandigarh, India
+
+<br/>
+
+[![Open to Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-1a7f37?style=for-the-badge)](https://www.linkedin.com/in/iamdivyanshtiwari/)
+
+</td>
+</tr>
 </table>
 
 </div>
 
+---
+
+## ⚡ &nbsp;TECH ARSENAL
+
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Divyansh-Official&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+<table>
+<tr>
+<td align="center" width="140">
 
-<div align="center">
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" height="275" width="50%" alt="Coding GIF" />
-</div>
-<br>
+**🖥️ Languages**
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <h2>✍️ DEV QUOTES</h2>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-    </td>
-  </tr>
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="45" height="45"/>
+
+Java &nbsp; C++
+
+</td>
+<td align="center" width="200">
+
+**📱 Mobile & Android**
+
+<img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="45" height="45"/>
+
+Android Studio &nbsp; Kotlin
+
+</td>
+<td align="center" width="300">
+
+**☁️ Backend & Cloud**
+
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=appwrite&theme=dark" width="45" height="45"/>
+
+Spring Boot &nbsp; AWS &nbsp; Firebase &nbsp; Appwrite
+
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="45" height="45"/>
+
+MySQL &nbsp; SQLite
+
+</td>
+<td align="center" width="200">
+
+**🎨 Design**
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=canva&theme=dark" width="45" height="45"/>
+
+Figma &nbsp; Canva
+
+</td>
+<td align="center" width="300">
+
+**🛠️ Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=idea&theme=dark" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="45" height="45"/>
+
+Git &nbsp; GitHub &nbsp; IntelliJ &nbsp; Postman
+
+</td>
+</tr>
 </table>
+
 </div>
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 &nbsp;CODING PROFILES
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-DivyanshTiwariOfficial-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1C1C1C)](https://leetcode.com/u/DivyanshTiwariOfficial)
+[![CodeChef](https://img.shields.io/badge/CodeChef-codexdev-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1C1C1C)](https://www.codechef.com/users/codexdev)
+
+<br/>
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-codewithdivyansh-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1C1C1C)](https://www.geeksforgeeks.org/user/codewithdivyansh)
+[![HackerRank](https://img.shields.io/badge/HackerRank-iamdivyanshtiwa1-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=1C1C1C)](https://www.hackerrank.com/profile/iamdivyanshtiwa1)
+
+</div>
+
+---
+
+## 📊 &nbsp;GITHUB STATS
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyansh-Official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899&text_color=ffffff&include_all_commits=true&rank_icon=github)
+
+</td>
+<td>
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Divyansh-Official&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏅 &nbsp;GITHUB TROPHIES
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Divyansh-Official&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+
+</div>
+
+---
+
+## 📈 &nbsp;CONTRIBUTION GRAPH
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Divyansh-Official&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ec4899&area=true)
+
+</div>
+
+---
+
+## 🐍 &nbsp;EATING MY CONTRIBUTIONS
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divyansh-Official/Divyansh-Official/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divyansh-Official/Divyansh-Official/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Divyansh-Official/Divyansh-Official/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</picture>
+
+</div>
+
+---
+
+## ✍️ &nbsp;DEV QUOTE
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Let%27s+build+something+extraordinary+together!&fontSize=17&fontColor=a78bfa&fontAlignY=65&animation=twinkling" width="100%"/>
+
+</div>
