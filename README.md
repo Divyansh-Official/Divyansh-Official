@@ -28,7 +28,7 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="" valign="top">
 
 ```java
 public class Divyansh extends Developer {
