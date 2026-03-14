@@ -70,7 +70,14 @@ public class Divyansh extends Developer {
 
 <br/><br/>
 
-🎯 &nbsp;**Actively seeking opportunities**
+<table>
+<tr>
+<td align="center">
+<br/>
+
+🎯 &nbsp;**Actively Seeking Opportunities**
+
+<br/>
 
 📧 &nbsp;`iamdivyanshtiwari@gmail.com`
 
@@ -80,11 +87,11 @@ public class Divyansh extends Developer {
 
 [![Open to Work](https://img.shields.io/badge/●%20OPEN%20TO%20WORK-1a7f37?style=social&logo=green-circle&logoColor=white&labelColor=1a7f37&color=1a7f37)](https://www.linkedin.com/in/iamdivyanshtiwari/)
 
-<br/>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/iamdivyanshtiwari/">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Open%20To%20Work-1a7f37?style=for-the-badge&logo=check-circle&logoColor=white&labelColor=145a2c" />
-</a>
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -101,11 +108,11 @@ public class Divyansh extends Developer {
 <tr>
 <td align="center">
 <br/>
-<a href="https://drive.google.com/file/d/1Ubm4mVfO0yZWtcZ8PAwM_itCiBwrZpdJ/view?usp=drive_link" target="_blank">
-<img src="https://img.icons8.com/?size=100&id=zEj141qHoHc8&format=png&color=000000" width="90" height="90"/>
+<a href="https://drive.google.com/file/d/17sWvHkJOlSJQjwex2hH-DiG4ZF2YwbVN/view?usp=sharing" target="_blank">
+<img src="https://img.icons8.com/?size=100&id=CPookyWndobk&format=png&color=000000" width="90" height="90"/>
 </a>
 <br/><br/>
-<a href="https://drive.google.com/file/d/1Ubm4mVfO0yZWtcZ8PAwM_itCiBwrZpdJ/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/17sWvHkJOlSJQjwex2hH-DiG4ZF2YwbVN/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/VIEW%20MY%20RESUME-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white" height="38"/>
 </a>
 <br/><br/>
@@ -152,7 +159,7 @@ public class Divyansh extends Developer {
 <table>
 <tr>
 <td align="center" width="50%"><br/><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="65" height="65"/><br/><br/><b>Android Studio</b><br/><br/></td>
-<td align="center" width="50%"><br/><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="65" height="65"/><br/><br/><b>Kotlin</b><br/><br/></td>
+<td align="center" width="50%"><br/><img src="https://skillicons.dev/icons?i=react-native&theme=dark" width="65" height="65"/><br/><br/><b>React Native</b><br/><br/></td>
 </tr>
 </table>
 
@@ -322,25 +329,14 @@ public class Divyansh extends Developer {
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyansh-Official&show_icons=true&theme=tokyonight&hide_border=false&border_color=a78bfa&border_radius=12&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899&text_color=ffffff&count_private=true&rank_icon=github)](https://github.com/Divyansh-Official)
 
-
 </td>
 <td align="center">
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Divyansh-Official&theme=tokyonight&hide_border=false&border=a78bfa&border_radius=12&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff)](https://camo.githubusercontent.com/c4ff1b91bb995482169436d55799225b1821c109392bf6c88e24fbc0e52c958c/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d44697679616e73682d4f6666696369616c267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565266261636b67726f756e643d3064313131372672696e673d61373862666126666972653d656334383939266375727253747265616b4c6162656c3d61373862666126736964654c6162656c733d6137386266612664617465733d666666666666)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Divyansh-Official&theme=tokyonight&hide_border=false&border=a78bfa&border_radius=12&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff)](https://github.com/Divyansh-Official)
 
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 🏅 &nbsp;GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Divyansh-Official&theme=tokyonight&no-frame=false&no-bg=true&margin-w=10&margin-h=10&column=3&row=2&title=MultiLanguage,Commits,Stars,Repositories,Issues,PullRequest" />
 
 </div>
 
@@ -351,20 +347,6 @@ public class Divyansh extends Developer {
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Divyansh-Official&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ec4899&area=true)
-
-</div>
-
----
-
-## 🐍 &nbsp;EATING MY CONTRIBUTIONS
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divyansh-Official/Divyansh-Official/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divyansh-Official/Divyansh-Official/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Divyansh-Official/Divyansh-Official/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</picture>
 
 </div>
 
