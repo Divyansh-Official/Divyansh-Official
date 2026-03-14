@@ -3,12 +3,14 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Divyansh%20Tiwari&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Native%20App%20Dev%20%7C%20Backend%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
+<!-- ═══════════════════════════ TYPING SVG ═══════════════════════════ -->
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=👾+Code-warrior+by+day%2C+bug-slayer+by+night;🚀+Building+Android+Apps+that+matter;☕+Powered+by+caffeine+%26+curiosity;🔥+Java+%7C+Spring+%7C+Firebase+%7C+AWS;💡+Turning+ideas+into+reality%2C+one+commit+at+a+time" alt="Typing SVG"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&width=700&height=45&lines=👾+Code-warrior+by+day%2C+bug-slayer+by+night;🚀+Building+Android+Apps+that+matter;☕+Powered+by+caffeine+%26+curiosity;🔥+Java+%7C+Spring+%7C+Firebase+%7C+AWS;💡+Turning+ideas+into+reality%2C+one+commit+at+a+time)](https://git.io/typing-svg)
 
 <br/><br/>
 
+<!-- ═══════════════════════════ SOCIAL BADGES ═══════════════════════════ -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamdivyanshtiwari/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codewithdivyansh)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/codedivyansh)
@@ -36,37 +38,40 @@
 ```java
 public class Divyansh extends Developer {
 
-  final String NAME     = "Divyansh Tiwari";
-  final String ROLE     = "Software Engineer";
-  final String LOCATION = "Chandigarh, India 🇮🇳";
-  final boolean OPEN_TO_WORK = true;
+    final String  NAME        = "Divyansh Tiwari";
+    final String  ROLE        = "Software Engineer";
+    final String  LOCATION    = "Chandigarh, India 🇮🇳";
+    final boolean OPEN_TO_WORK = true;
 
-  String[] languages = { "Java", "C++" };
+    String[] languages = {
+        "Java", "C++"
+    };
 
-  String[] stack = {
-    "Android SDK", "Spring Boot",
-    "Firebase",    "AWS",
-    "Appwrite",    "MySQL", "SQLite"
-  };
+    String[] stack = {
+        "Android SDK",  "Spring Boot",
+        "Firebase",     "AWS",
+        "Appwrite",     "MySQL",
+        "SQLite"
+    };
 
-  String[] currentlyLearning = {
-    "App Performance Optimization",
-    "System Design",
-    "Cloud Architecture"
-  };
+    String[] currentlyLearning = {
+        "App Performance Optimization",
+        "System Design",
+        "Cloud Architecture"
+    };
 
-  void funFact() {
-    System.out.println(
-      "I debug faster with coffee ☕"
-    );
-  }
+    void funFact() {
+        System.out.println(
+            "I debug faster with coffee ☕"
+        );
+    }
 }
 ```
 
 </td>
 <td width="50%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-Official&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=6" width="230"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-Official&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=6" width="240"/>
 
 <br/><br/>
 
@@ -93,74 +98,205 @@ public class Divyansh extends Developer {
 <div align="center">
 
 <table>
+
 <tr>
-<td align="center" width="140">
-
-**🖥️ Languages**
-
-<img src="https://skillicons.dev/icons?i=java&theme=dark" width="45" height="45"/>
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="45" height="45"/>
-
-Java &nbsp; C++
-
-</td>
-<td align="center" width="200">
-
-**📱 Mobile & Android**
-
-<img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="45" height="45"/>
-<img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="45" height="45"/>
-
-Android Studio &nbsp; Kotlin
-
-</td>
-<td align="center" width="300">
-
-**☁️ Backend & Cloud**
-
-<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="45" height="45"/>
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="45" height="45"/>
-<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="45" height="45"/>
-<img src="https://skillicons.dev/icons?i=appwrite&theme=dark" width="45" height="45"/>
-
-Spring Boot &nbsp; AWS &nbsp; Firebase &nbsp; Appwrite
-
+<td align="center" colspan="3">
+<br/>
+<h3>🖥️ &nbsp;Programming Languages</h3>
 </td>
 </tr>
 <tr>
-<td align="center" width="140">
-
-**🗄️ Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="45" height="45"/>
-<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="45" height="45"/>
-
-MySQL &nbsp; SQLite
-
+<td align="center" width="33%">
+<br/>
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="65" height="65"/>
+<br/><br/>
+<b>Java</b>
+<br/><br/>
 </td>
-<td align="center" width="200">
-
-**🎨 Design**
-
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="45" height="45"/>
-<img src="https://skillicons.dev/icons?i=canva&theme=dark" width="45" height="45"/>
-
-Figma &nbsp; Canva
-
+<td align="center" width="33%">
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="65" height="65"/>
+<br/><br/>
+<b>C++</b>
+<br/><br/>
 </td>
-<td align="center" width="300">
-
-**🛠️ Tools & DevOps**
-
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" height="45"/>
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" height="45"/>
-<img src="https://skillicons.dev/icons?i=idea&theme=dark" width="45" height="45"/>
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="45" height="45"/>
-
-Git &nbsp; GitHub &nbsp; IntelliJ &nbsp; Postman
-
+<td align="center" width="33%">
+<br/>
+<img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="65" height="65"/>
+<br/><br/>
+<b>Kotlin</b>
+<br/><br/>
 </td>
 </tr>
+
+<tr>
+<td align="center" colspan="3">
+<hr/>
+<h3>📱 &nbsp;Mobile & Android</h3>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="1">
+<br/>
+<img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="65" height="65"/>
+<br/><br/>
+<b>Android Studio</b>
+<br/><br/>
+</td>
+<td align="center" colspan="2">
+<br/>
+<img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="65" height="65"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="65" height="65"/>
+<br/><br/>
+<b>Kotlin &nbsp;·&nbsp; Java (Android)</b>
+<br/><br/>
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="3">
+<hr/>
+<h3>☁️ &nbsp;Backend & Cloud Services</h3>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<br/>
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="65" height="65"/>
+<br/><br/>
+<b>Spring Boot</b>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="65" height="65"/>
+<br/><br/>
+<b>AWS</b>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="65" height="65"/>
+<br/><br/>
+<b>Firebase</b>
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="1">
+<br/>
+<img src="https://skillicons.dev/icons?i=appwrite&theme=dark" width="65" height="65"/>
+<br/><br/>
+<b>Appwrite</b>
+<br/><br/>
+</td>
+<td align="center" colspan="2">
+<br/>
+<img src="https://skillicons.dev/icons?i=maven&theme=dark" width="65" height="65"/>
+<br/><br/>
+<b>Maven</b>
+<br/><br/>
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="3">
+<hr/>
+<h3>🗄️ &nbsp;Databases</h3>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="65" height="65"/>
+<br/><br/>
+<b>MySQL</b>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="65" height="65"/>
+<br/><br/>
+<b>SQLite</b>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<img src="https://skillicons.dev/icons?i=oracle&theme=dark" width="65" height="65"/>
+<br/><br/>
+<b>Oracle</b>
+<br/><br/>
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="3">
+<hr/>
+<h3>🎨 &nbsp;UI / UX & Design</h3>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<br/>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="65" height="65"/>
+<br/><br/>
+<b>Figma</b>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<img src="https://skillicons.dev/icons?i=canva&theme=dark" width="65" height="65"/>
+<br/><br/>
+<b>Canva</b>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+&nbsp;
+<br/><br/>
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="3">
+<hr/>
+<h3>🛠️ &nbsp;Version Control & DevOps</h3>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<br/>
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="65" height="65"/>
+<br/><br/>
+<b>Git</b>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="65" height="65"/>
+<br/><br/>
+<b>GitHub</b>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<img src="https://skillicons.dev/icons?i=idea&theme=dark" width="65" height="65"/>
+<br/><br/>
+<b>IntelliJ IDEA</b>
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+<br/>
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="65" height="65"/>
+<br/><br/>
+<b>Postman</b>
+<br/><br/>
+</td>
+</tr>
+
 </table>
 
 </div>
@@ -171,13 +307,62 @@ Git &nbsp; GitHub &nbsp; IntelliJ &nbsp; Postman
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-DivyanshTiwariOfficial-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1C1C1C)](https://leetcode.com/u/DivyanshTiwariOfficial)
-[![CodeChef](https://img.shields.io/badge/CodeChef-codexdev-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1C1C1C)](https://www.codechef.com/users/codexdev)
+<table>
 
+<tr>
+<td align="center" colspan="2">
+<h3>🧩 &nbsp;Problem Solving</h3>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 <br/>
+<a href="https://leetcode.com/u/DivyanshTiwariOfficial" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="40"/>
+</a>
+<br/>
+<code>DivyanshTiwariOfficial</code>
+<br/><br/>
+</td>
+<td align="center" width="50%">
+<br/>
+<a href="https://www.hackerrank.com/profile/iamdivyanshtiwa1" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" height="40"/>
+</a>
+<br/>
+<code>iamdivyanshtiwa1</code>
+<br/><br/>
+</td>
+</tr>
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-codewithdivyansh-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1C1C1C)](https://www.geeksforgeeks.org/user/codewithdivyansh)
-[![HackerRank](https://img.shields.io/badge/HackerRank-iamdivyanshtiwa1-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=1C1C1C)](https://www.hackerrank.com/profile/iamdivyanshtiwa1)
+<tr>
+<td align="center" colspan="2">
+<hr/>
+<h3>📚 &nbsp;Learning & Practice</h3>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<br/>
+<a href="https://www.geeksforgeeks.org/user/codewithdivyansh" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="40"/>
+</a>
+<br/>
+<code>codewithdivyansh</code>
+<br/><br/>
+</td>
+<td align="center" width="50%">
+<br/>
+<a href="https://www.codechef.com/users/codexdev" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="40"/>
+</a>
+<br/>
+<code>codexdev</code>
+<br/><br/>
+</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -189,12 +374,12 @@ Git &nbsp; GitHub &nbsp; IntelliJ &nbsp; Postman
 
 <table>
 <tr>
-<td>
+<td align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyansh-Official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899&text_color=ffffff&include_all_commits=true&rank_icon=github)
 
 </td>
-<td>
+<td align="center">
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Divyansh-Official&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff)
 
