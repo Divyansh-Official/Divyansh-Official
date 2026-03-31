@@ -66,7 +66,18 @@ public class Divyansh extends Developer {
 </td>
 <td width="50%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-Official&layout=compact&theme=tokyonight&hide_border=false&border_color=a78bfa&border_radius=12&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" width="300"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+React+Developer;Building+Modern+Full-Stack+Projects;Always+Learning+Always+Shipping" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divyansh-Official&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Divyansh-Official&theme=tokyonight" height="180" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divyansh-Official&theme=tokyonight" width="95%" />
+</p>
 
 <br/><br/>
 
@@ -325,16 +336,16 @@ public class Divyansh extends Developer {
 
 <table>
 <tr>
-<td align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyansh-Official&show_icons=true&theme=tokyonight&hide_border=false&border_color=a78bfa&border_radius=12&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899&text_color=ffffff&count_private=true&rank_icon=github)](https://github.com/Divyansh-Official)
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Divyansh-Official&theme=tokyonight" height="180" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=Divyansh-Official&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff" height="180" />
+    </td>
+  </tr>
 
-</td>
-<td align="center">
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Divyansh-Official&theme=tokyonight&hide_border=false&border=a78bfa&border_radius=12&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff)](https://github.com/Divyansh-Official)
-
-</td>
 </tr>
 </table>
 
